@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+
+}
+#navbar{
+    
+    height: 60px;
+    background-color:black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+button{
+    background-color: #ffff008f;
+    margin-right: 300px;
+}
+#logo{
+    color: orangered;
+    font-size: 25px;
+}
+a{
+    margin-right: 250px;
+}
